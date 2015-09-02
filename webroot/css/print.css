@@ -1,0 +1,9 @@
+p{
+	font-size:14px !important; 
+}
+table.invoice_table, table.invoice_table td {    
+    border: 1px solid #000 !important;   
+}
+@media only print{
+	.small-1{width:8.33333% !important}.small-2{width:16.66667% !important}.small-3{width:25% !important}.small-4{width:33.33333% !important}.small-5{width:41.66667% !important}.small-6{width:50% !important}.small-7{width:58.33333% !important}.small-8{width:66.66667% !important}.small-9{width:75% !important}.small-10{width:83.33333% !important}.small-11{width:91.66667% !important}.small-12{width:100% !important}
+}

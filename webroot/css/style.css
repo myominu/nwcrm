@@ -1,0 +1,138 @@
+/*style css*/
+.badge.badge-warning{
+	background-color: #f0ad4e;
+}
+.logout_btn{
+	margin-top: 5px;
+}
+.page-header{
+	margin: 20px 0 20px;
+}
+.page-header h1{
+	line-height: 1.0;
+}
+.mbottom0{
+	display: block;
+	font-size: 12px;
+	margin: 0;
+	clear: both;
+}
+.mbottom0 .label{
+	margin: 0 2px 2px 0;
+	float: left;
+}
+.public_status{
+	width: 250px;
+}
+.list_no{
+	width: 50px;
+}
+.filter form, .filter input{
+	margin-bottom: 0; 
+}
+.filter .input{
+	display: inline-table;
+	margin-right: 5px;
+}
+
+.invoice_head{
+	font-size: 26px;
+}
+.invoices-content{
+	margin-top: 20px;
+}
+.invoice_table_box{
+	min-height: 500px;
+}
+.invoice_table p{
+	margin-bottom: 0;
+}
+.nwlogo{
+	margin-bottom: 10px;
+}
+.bill_address{
+	line-height: 18px;
+	font-size: 14px;
+}
+.contact_address{
+	line-height: 16px;
+	font-size: 12px;
+	margin-bottom: 0;
+	margin-top: 10px;
+}
+.border-bottom{
+	border-bottom: solid 1px #2550a0;
+}
+.border-bottom2{
+	border-bottom: solid 3px #2550a0;
+	margin-bottom: 2px;
+}
+.no-border-table{
+	margin-bottom: 0;
+}
+.no-border-table .td_label{
+	font-weight: bold;
+	width: 80px;
+	vertical-align: top;
+}
+.td_label2{
+	font-weight: bold;
+	width: 140px;	
+	vertical-align: top;
+}
+.amount_table{
+	margin-top: 10px;
+}
+.invoice_table tr td{
+	vertical-align: top;
+}
+.invoice_value{
+	text-align: right;
+	width: 150px;
+}
+.no{
+	width: 30px;
+}
+.no-border-table{
+	border: none;
+}
+.td_value{
+	text-align: right;
+}
+.no-border-table tr td{
+	padding: 0;
+}
+.no-border-table tr:nth-of-type(2n){
+	background: none;
+}
+
+.invoice_desc{
+	margin-bottom: 0;
+}
+.inline-radio{
+	width: 350px;
+}
+.inline-radio label{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.navbar-nav > li > a{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar-brand{
+	padding: 10px 15px;
+	height: auto;
+}
+.navbar{
+	min-height: 30px;
+}
+a.more{
+	margin-top: 10px;
+	font-size: 14px;
+	vertical-align: bottom;
+}
+.view-actions{
+	width: 80px;
+}
